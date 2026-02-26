@@ -2,7 +2,9 @@
 
 About me:
 -I have an Associates degree in Computer Science at Green River College 
+
 -Currently a senior completing my bachlors in Computer Science at Washington State University
+
 -I am working on a web app to track daily habits (Django + Postgresql)
 
 Tech: 
