@@ -9,6 +9,7 @@ About me:
 -I am working on a web app to track daily habits (Django + Postgresql)
 
 Tech: 
+
 -Java at Green River College
 
 -C/C++ at Washigton State Univeristy 
