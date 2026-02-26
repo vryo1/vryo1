@@ -14,4 +14,4 @@ How to Reach me:
 -Email: leonjos000.jl@gmail.com 
 LinkedIn: https://www.linkedin.com/in/joshua-leon-hireme
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?VRYO11&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vryo1&layout=compact)
