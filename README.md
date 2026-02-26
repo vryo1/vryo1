@@ -10,10 +10,13 @@ About me:
 
 Tech: 
 -Java at Green River College
+
 -C/C++ at Washigton State Univeristy 
+
 -Tools: Clion, VScode, PyCharm, Git
 
 How to Reach me:
+
 -Email: leonjos000.jl@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/joshua-leon-hireme
