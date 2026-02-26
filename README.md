@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Joshua Leon
 
-<!--
-**vryo1/vryo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+-I have an Associates degree in Computer Science at Green River College 
+-Currently a senior completing my bachlors in Computer Science at Washington State University
+-I am working on a web app to track daily habits (Django + Postgresql)
 
-Here are some ideas to get you started:
+Tech: 
+-Java at Green River College
+-C/C++ at Washigton State Univeristy 
+-Tools: Clion, VScode, PyCharm, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to Reach me:
+-Email: leonjos000.jl@gmail.com 
+LinkedIn: https://www.linkedin.com/in/joshua-leon-hireme
