@@ -1,4 +1,4 @@
-## Hi, I'm Joshua Leon
+## Hi, I'm Joshua Leon-Ortiz
 
 About me:
 
