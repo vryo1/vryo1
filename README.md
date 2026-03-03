@@ -1,6 +1,6 @@
-## Hi, I'm Joshua Leon-Ortiz
+# Hi, I'm Joshua Leon-Ortiz
 
-About me:
+## About me:
 
 -I have an Associates degree in Computer Science at Green River College 
 
@@ -8,7 +8,7 @@ About me:
 
 -I am working on a web app to track daily habits (Django + Postgresql)
 
-Tech: 
+### Tech: 
 
 -Java at Green River College
 
@@ -16,7 +16,7 @@ Tech:
 
 -Tools: Clion, VScode, PyCharm, Git
 
-How to Reach me:
+#### How to Reach me:
 
 -Email: leonjos000.jl@gmail.com 
 
