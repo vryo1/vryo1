@@ -20,4 +20,4 @@
 
 -Email: leonjos000.jl@gmail.com 
 
-LinkedIn: https://www.linkedin.com/in/joshua-leon-hireme
+LinkedIn: https://www.linkedin.com/in/joshua-leon-cs
