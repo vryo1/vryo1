@@ -21,5 +21,3 @@
 -Email: leonjos000.jl@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/joshua-leon-hireme
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vryo1&layout=compact)
