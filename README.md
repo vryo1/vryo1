@@ -12,7 +12,7 @@
 
 -Java at Green River College
 
--C/C++ at Washigton State Univeristy 
+-C/C++, Haskell, and Python at Washigton State Univeristy 
 
 -Tools: Clion, VScode, PyCharm, Git
 
