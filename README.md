@@ -22,4 +22,4 @@
 
 LinkedIn: https://www.linkedin.com/in/joshua-leon-cs
 
-![Vryo1](https://img.shields.io/badge/language-Vryo1-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vryo1&layout=compact)
