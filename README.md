@@ -21,3 +21,5 @@
 -Email: leonjos000.jl@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/joshua-leon-cs
+
+![Vryo1](https://img.shields.io/badge/language-Vryo1-blue)
