@@ -22,4 +22,4 @@
 
 LinkedIn: https://www.linkedin.com/in/joshua-leon-cs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vryo1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vryo1&layout=compact&langs_count=10&size_weight=0.4&count_weight=0.6)
