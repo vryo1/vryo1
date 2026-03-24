@@ -6,7 +6,7 @@
 
 -Currently a senior completing my bachlors in Computer Science at Washington State University
 
--I am working on a web app to track daily habits (Django + Postgresql)
+-I am working on a AI sports tracker and web app to track daily habits (Django + Postgresql)
 
 ### Tech: 
 
